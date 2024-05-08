@@ -3,4 +3,4 @@
 A project app for notes using Hive.
 
 ## Getting Started
-![Homepage](screenshots/homepage.png)
+![Homepage](assets/Capture.PNG)
